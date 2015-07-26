@@ -25,12 +25,12 @@ the 10-year period 1999-2008.
 - Have total emissions from PM_{2.5} decreased in the United States from 1999 to
   2008?
 
-  [[./plot1.png]]
+  [[https://raw.githubusercontent.com/bhuvanajanakiraman/exp-analysis-course-project-2/master/png/plot1.png]]
 
 - Have total emissions from PM_{2.5} decreased in the Baltimore City, Maryland
   from 1999 to 2008?
 
-  [[./plot2.png]]
+  [[https://raw.githubusercontent.com/bhuvanajanakiraman/exp-analysis-course-project-2/master/png/plot2.png]]
 
 - Of the four types of sources indicated by the =type= (point, nonpoint, onroad,
   nonroad) variable, which of these four sources have seen decreases in
