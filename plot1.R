@@ -1,0 +1,6 @@
+NEI<-readRDS("summarySCC_PM25.rds")
+SCC <- readRDS("Source_Classification_Code.rds")
+aggNEI<-aggregate(Emissions~year,NEI,sum)
+png("plot1.png",height = 480,width = 480)
+barplot(height=aggNEI$Emissions,names.arg = aggNEI$year,col="blue",xlab = "year",ylab = "PM2.5 Emissions",main="Toatl Pm2.5 Emission")
+dev.off()
