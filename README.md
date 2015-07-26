@@ -37,7 +37,7 @@ the 10-year period 1999-2008.
   emissions from 1999-2008 for Baltimore City? Which have seen increases in
   emissions from 1999-2008? 
 
-  [[./plot3.png]]
+  [[plot3.png]]
 
 - Across the United States, how have emissions from coal combustion-related
   sources changed from 1999-2008?
