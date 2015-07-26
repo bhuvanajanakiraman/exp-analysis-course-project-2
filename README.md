@@ -47,10 +47,10 @@ the 10-year period 1999-2008.
 - How have emissions from motor vehicle sources changed from 1999-2008 in
   Baltimore City?
 
-  [[./plot5.png]]
+  ![alt tag](https://raw.githubusercontent.com/bhuvanajanakiraman/exp-analysis-course-project-2/master/png/plot5.png)
 
 - Compare emissions from motor vehicle sources in Baltimore City with emissions
   from motor vehicle sources in Los Angeles County, California. Which city has
   seen greater changes over time in motor vehicle emissions?
 
-  [[./plot6.png]]
+  ![alt tag](https://raw.githubusercontent.com/bhuvanajanakiraman/exp-analysis-course-project-2/master/png/plot6.png)
